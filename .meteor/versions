@@ -33,6 +33,7 @@ mongo@1.0.11
 observe-sequence@1.0.4
 ordered-dict@1.0.2
 random@1.0.2
+react@0.0.0
 reactive-dict@1.0.5
 reactive-var@1.0.4
 reload@1.1.2
